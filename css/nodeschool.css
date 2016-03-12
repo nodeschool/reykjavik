@@ -784,11 +784,12 @@ html, body {
 header.site-header {
   padding: 4em;
   text-align: center;
-  background-color: #FFE543
+  background-color: #2B3990;
+  color: #fff;
 }
 header.site-header a {
   text-decoration: none;
-  color: #000
+  color: #fff;
 }
 .logo {
   height: 200px
@@ -806,7 +807,7 @@ a.btn {
 }
 a.btn:hover {
   background-color: #333;
-  color: #FFE543
+  color: #2B3990
 }
 .site-main-content {
   background-color: #fff
@@ -862,7 +863,7 @@ footer {
   color: #fff
 }
 footer a {
-  color: #FFE543
+  color: #2B3990
 }
 footer h3 {
   margin: 0;
